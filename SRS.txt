@@ -1,0 +1,54 @@
+                  	
+TITLE:    ONLINE TICKET BOOKING SYSTEM
+
+AUTHOR: pratiksha deshmukh(PG-DAC 233068)
+
+ORGANISATION: IACSD,Akurdi pune
+
+PURPOSE: The purpose is to provide a single online platform for ticket booking for 
+        tavelling to any registered user, without visiting the travel business in reality.
+
+SCOPE: The system provide online ticket booking facility for a registered user to book ticket for
+      bus,aeroplane and train in online platform.it provides option to the registered user to search 
+      avaibility of bus,train,plane as per the user's requirements. it allows user to book the ticket 
+      and offers online mode of payment. it also provides option for cancellation with refund amount.
+
+FUNCTIONAL REQUIREMENTS:
+       the system provides sign up option to uanyone to become a registered user of the application.
+       the registered user can search for travelling options like by bus,by plane or by train.
+
+       the user is provided with search option to choose source and destination the journey 
+       and can find suitable option on the date of his choice.
+
+       the user can book any number of  tickets, make payment for the same using online mode of payment.
+       the user can also get refund if he wants to cancel the booking.
+
+       the system provides the ticket booking agency officals to manage the data on the system with
+       authorized access only. the bussiness officials can accept or deny the request for online ticket 
+      that is booked by the users.
+
+       the system provides BOD the graphical representation of the activities and revenue 
+       generated on the system.
+
+
+NON-FUNCTIONAL REQUIREMENTS:
+      1.security: the system gives scope for performing authentication and authorization for the registered
+                  users like customers and official persons of the online ticket booking agency.
+                  it does not allow un-authorized access to the system.
+                  the system will automatically log out the user after 15v minutes of inactivity. 
+                  such robust system will be safe from hackers and prevent users from phishing attacks.
+      2.reliability:the system is reliable that gives constant tiome performance. it can handle 
+                  the load during peak sesason.
+      3.accessibility:the system is accessible all over the world 24*7.
+      4.portability:the system is portable on any OS (like linus,windows),on any devices (like mobile,desktop).
+      5.scalability:the system is scalable and can acquire more number of vendors and users.
+      6.maintainability:the system uses webserver that guaranmtees the maintainable data with poersistence.
+      7.efficiency:the system gives efficient performance to users by getting rid off unnecessary data 
+                   and providing what is necessary.
+      8.safety:the system uses latest anti virus technologues to prevent any virus, and hacking attacks.
+
+DESIGN CONSTRAINTS:the system will be build using tachnologies like JAVA,REACT,MYsql etc.
+                  the preliminary version will be developed in developer envieronment, tested in tester 
+                  environment and will be deployed in product environment.
+
+PRELIMINARY SCHEDULE:The preliminary schedule gives 6 months to release first version of the system.

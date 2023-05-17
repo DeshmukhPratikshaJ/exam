@@ -1,0 +1,25 @@
+BUSINESS ENTITIES:
+    1.registered user
+    2.ticket
+    3.payment
+    4.service provider
+
+
+BUSINESS OPERATIONS:
+    1.registration of user
+    2.sign in for user
+    3.authentication of user
+    4.user searches suing source,destinationa nd date of journey
+    5.after getting desired option,user chooses the option
+    6.the user proceed to pay using online payment mode for the chosen journey
+    7.the user sees if there is any discount ,if yes then applies
+    8.the user pays for the booking and ticket is generated
+    9.the ticket has id,source and destination location with date of journey.
+    10.the user can cancel the booking 
+    11. uponm cancellation ,refund amount is send to user's acount
+    12.the user can successfully log out of the system
+    13.business office staff can log in
+    14.the staff has authorizarion 
+    15 the staff  can choose to accept or reject the request of booking
+    16.BOD can log in 
+    17.BOD can see the working of the system using graphical representation.
